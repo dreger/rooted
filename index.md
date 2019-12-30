@@ -1,5 +1,5 @@
 ---
-title: FCC Facilitator Guide
+title: Facilitator Guide
 layout: default
 ---
 

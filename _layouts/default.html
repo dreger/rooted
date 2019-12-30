@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>{{ page.title }}</title>
+	<title>Rooted {{ page.title }} | First Christian Church</title>
 	<link rel="stylesheet" type="text/css" href="/style.css">
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,800&display=swap" rel="stylesheet">
 </head>
 <body>
-	<div class="masthead">
-		<div class="masthead__logo masthead__logo--fcc"></div>
+	<div id="top" class="masthead">
+		<div class="masthead__logo masthead__logo--fcc"><a href="https://firstchristian.com/" target="_blank">First Christian Church</a></div>
 		<div class="masthead__divider"></div>
-		<div class="masthead__logo masthead__logo--rooted"></div>
+		<div class="masthead__logo masthead__logo--rooted">Rooted Logo</div>
 	</div>
 
-<nav class="nav">
+	<nav class="nav">
 		<div class="nav__grid">
 			<a class="nav__grid__item nav__grid__item--home {% if '/' == page.url %}nav__grid__item--active{% endif %}" href="/">Intro</a>
 			{% for week in site.weeks %}
-			  <a class="nav__grid__item {% if week.url == page.url %}nav__grid__item--active{% endif %}" href="{{ week.url }}">{{ week.title }}</a>
+			<a class="nav__grid__item {% if week.url == page.url %}nav__grid__item--active{% endif %}" href="{{ week.url }}">{{ week.title }}</a>
 			{% endfor %}
 		</div>
 	</nav>
@@ -29,6 +29,10 @@
 	
 	<main class="main">
 		{{ content }}
-	</main>
+	</main>	
+
+	<footer class="footer">
+		First Christian Church 
+	</footer>
 </body>
 </html>

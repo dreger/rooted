@@ -1,31 +1,34 @@
 ---
 title: "Week 8"
+vimeo_id: 156493841
 ---
 
-# WELCOME!
+Here you’ll find some quick training tips for your upcoming group experience, as well as this week’s FULL Teaching Video ([Make It Count – Treasure](https://vimeo.com/fcccanton/review/325324428/b80236eb6d)) and other insights to help us stay on the same page. 
 
-I have been praying for YOU and that by leading a Rooted group, committing to the full 10 weeks of intentional time with its practices, and connecting with others, you will begin to experience that power for yourself. I’m humbled by all that God is doing through Rooted and consider it a great privilege to share this experience with you!
+Please take a few short minutes to watch the Week 8 Training Video and be sure to review pages 81-85 in your Facilitator Guide for tips on how to lead a Serve Experience. 
 
-As we prepare to Launch, here are the final items we’ll need to help you succeed:
+## Notes for This Week
 
-## Day/Time You Plan to Meet
+### We Will Not Be Regrouping on Campus for Week 8!
 
-If you have a planned day, time and/or location set, please notify me and I’ll update our records. If you’re choosing on Sunday with your group members, simply respond “TBD @ Launch.”
+Despite the print version of the Facilitator Guide (and training video), do not make plans to come to campus. Instead, we encourage you to watch/share the Message Video from the Make It Count series in your regular time/venues so as to allow more time for discussion/processing together. Our leaders did a great job unpacking the importance of biblical finances and, as such, we don’t see long term impact by bringing the groups back on site and out of rhythm when unnecessary. 
 
-## Rooted or Lifegroup
+*(Note: If you feel uncomfortable fielding questions or have additional questions or concerns, please contact nextsteps@firstchristian.com and we can help you prepare.)*
 
-If you have made the decision to launch ROOTED as a LifeGroup, or simply to serve as a ROOTED Facilitator/Pilot, please respond accordingly.
+### Serving Forms
 
-## Pray
+We don’t have print versions outside of First Step due to the higher volume of options online, as well as response rate/retention when people sign up online. You can access that HERE. 
 
-As we stated, many of our ROOTED Groups are stepping out in faith and seeking connecting for the first time…which is scary.
+## Generosity
 
-Begin to pray for your members by name and for all God plans to accomplish over the next 10 weeks!
+**“Why are we going to talk about Generosity?”** You might be asking this question. I certainly was. We want to make sure we get this conversation right and have everyone on the same page. 
 
->>HOW CAN I PRAY FOR YOU?
+Christians are only giving at 2.5% of their income right now. If they would only double this we’d be able to substantially address most, if not all, preventable suffering. That’s particularly helpful as we remember the week 4 conversations. “Where is God in suffering?” Maybe part of the question is “Where are we in suffering?” [For more data on this idea, check out this article](https://relevantmagazine.com/love-and-money/what-would-happen-if-church-tithed).
 
-Seriously…I’m carving out time/space to pray for each of you (and your groups) individually and would love to know any specific needs or concerns you may have.
+More importantly, money is a sacred idol for most people. That’s true for modern Americans in a society that’s built on capitalism and consumerism. Not that any of that is evil at all, it just grants money a lot of power in our lives. Jesus’ appearance on the planet was perfectly timed, as economies were increasingly moving toward a money-based economy (rather than goods-based) and were more interconnected than ever, His teaching about money was extensive. Look at this quote from leadership and financial teacher Howard Dayton:
 
-(NOTE: All requests are confidential and will remain so, but want you to know you’re valued and supported.)
+*Jesus talked much about money. Sixteen of the thirty-eight parables were concerned with how to handle money and possessions. In the Gospels, an amazing one out of ten verses (288 in all) deal directly with the subject of money. The Bible offers 500 verses on prayer, less than 500 verses on faith, but more than 2,000 verses on money and possessions.* 
 
-As always, if you have any questions, concerns or simply want to know more about getting connected @ FCC, email nextsteps@firstchristian.com anytime.
+Please let me know if you have any additional questions. Appreciate you working ahead on behalf of your guys and all you’re doing! 
+
+

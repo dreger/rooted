@@ -2,30 +2,38 @@
 title: "Week 7"
 ---
 
-# WELCOME!
+## Purpose in the Church
 
-I have been praying for YOU and that by leading a Rooted group, committing to the full 10 weeks of intentional time with its practices, and connecting with others, you will begin to experience that power for yourself. I’m humbled by all that God is doing through Rooted and consider it a great privilege to share this experience with you!
+The church (ekklesia) was created to be a community that regularly meets to accomplish God’s mission on earth. It’s not an organization that is primarily comprised of paid staff that serves attendees. NO! Professional pastors are useful primarily as a way of expediently empowering the rest of the people gathered to connect with Jesus and be pastors/leaders/servants themselves to everyone in their lives during the rest of the week. Pastors aren’t on Jesus’ mission anymore than YOU or anyone else in your group is called to be.
+ 
+**The church is primarily regular followers of Jesus that huddle up at the beginning of the week to spiritually serve each other, so they can serve others.**
 
-As we prepare to Launch, here are the final items we’ll need to help you succeed:
+Naturally then, we must rely on the whole church to create the best experiences for everyone that comes to meet with our church community. Most of what happens at FCC is accomplished by volunteers. They’re not so much people serving the organization though, but rather “partners” in the same mission of God.
 
-## Day/Time You Plan to Meet
+It’s so important for people following Jesus to engage in a role within the church. It’s not the only way to serve, but it is a *crucial* way to serve. Why?
 
-If you have a planned day, time and/or location set, please notify me and I’ll update our records. If you’re choosing on Sunday with your group members, simply respond “TBD @ Launch.”
+- Spiritual needs are of primary importance for every area of our lives. From manual labor to teaching, there are a variety of roles to help provide the best possible weekly experience for any guest to encounter Jesus.
+- Serving side-by-side is one of the best ways to develop meaningful relationships.
+- This is not the staff’s church. This is YOUR church and THEIR church. Our church is led by a group of non-paid leaders for that reason.
 
-## Rooted or Lifegroup
+## Serve @ FCC
 
-If you have made the decision to launch ROOTED as a LifeGroup, or simply to serve as a ROOTED Facilitator/Pilot, please respond accordingly.
+Please direct your group members to check out the different ways they can get involved in the church by clicking [HERE](http://form.jotform.us/form/62994364192163?myNext=Volunteering%20at%20Church&emailsFrom=I%27d%20like%20to%20get%20occasional%20email%20updates%20from%20First%20Christian%20Church). 
 
-## Pray
+Also, there are some specific ways that you and your group can serve together: 
 
-As we stated, many of our ROOTED Groups are stepping out in faith and seeking connecting for the first time…which is scary.
+- Oct. 19 - Cafe Disco - you can register [HERE](https://firstchristian.com/events/cafe-disco-2019/). 
+- Nov. 28 - Harvest Meal - registration coming soon
 
-Begin to pray for your members by name and for all God plans to accomplish over the next 10 weeks!
+These serving roles are great starting places to engaging Jesus’ mission through First Christian Church.
 
->>HOW CAN I PRAY FOR YOU?
+## Gifting
 
-Seriously…I’m carving out time/space to pray for each of you (and your groups) individually and would love to know any specific needs or concerns you may have.
+Most of us generally understand our gifting already through our many years of trial and error, skill-development, and career experience. What few of us understand is how those skills, talents, and natural passions can contribute to the mission of God. That takes a lot of creativity as we embrace God’s mission as our own. Your group is a great starting place for discussions surrounding that. Feel free to do the ones that they recommend in the facilitator’s guide and have your group report back their findings. For some groups that might be a really helpful starting place.
 
-(NOTE: All requests are confidential and will remain so, but want you to know you’re valued and supported.)
+Here are two additional resources I’ve found to be more practically helpful in understanding how God has wired us. To truly explore these, you’ll have to spend some time and energy. Maybe consider it as something worth exploring as a group in the future.
 
-As always, if you have any questions, concerns or simply want to know more about getting connected @ FCC, email nextsteps@firstchristian.com anytime.
+[Spiritual Gift Assessment](https://groupleaders.org/spiritualgift)
+
+[Spiritual Gifts Survey](https://s3.amazonaws.com/lifewayblogs/wp-content/uploads/sites/83/2018/03/21175436/DOC-Spiritual-Gifts-Survey.pdf)
+

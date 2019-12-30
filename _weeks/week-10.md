@@ -1,33 +1,46 @@
 ---
 title: "Week 10"
-layout: week
-
+vimeo_id: 156493845
 ---
 
-# WELCOME!
+Please take a few short minutes to watch the Week 10 Training Video and  [Prophetic Prayer – Facilitator Training](https://vimeo.com/170240318) and review pages 95-100 in your Facilitator Guide for tips on how to lead your Group Discussion during the Celebration Experience.
 
-I have been praying for YOU and that by leading a Rooted group, committing to the full 10 weeks of intentional time with its practices, and connecting with others, you will begin to experience that power for yourself. I’m humbled by all that God is doing through Rooted and consider it a great privilege to share this experience with you!
+## Speaking Truth into Each Other
 
-As we prepare to Launch, here are the final items we’ll need to help you succeed:
+As we approach the final Celebration on week 10, remember this is an opportunity to point out all that you’ve seen God doing in the life of each person in your group. Do that through a personal card and/or verbally in your group time. Encourage your group to point out the individual giftings, character strengths, and passions worth pursuing in their lives.
 
-## Day/Time You Plan to Meet
+- “I’ve noticed you’re super compassionate, especially when it comes to the racial tension in our city. You should get involved serving at with our Impact team.”
+- “You have no idea how much people look up to you. Embrace the leadership opportunities God is calling you to right now.”
+- “I know it’s been tough to forgive yourself, but know that God sees beyond those decisions. He loves you unconditionally and is building something beautiful in you. I’d encourage you to continue to let him replace those ideas you have about yourself with the ones God is says about who you are now. Let Him break down those strongholds.” 
 
-If you have a planned day, time and/or location set, please notify me and I’ll update our records. If you’re choosing on Sunday with your group members, simply respond “TBD @ Launch.”
+Allow each person time and space to talk about what the ROOTED Experience has meant to them and then have your group speak these kinds of truths and encouragement into each other’s lives. Then, have someone (or yourself) pray over that person. Use your discretion and your Facilitators Guide to think through what this looks like.
 
-## Rooted or Lifegroup
+## What’s Next?
 
-If you have made the decision to launch ROOTED as a LifeGroup, or simply to serve as a ROOTED Facilitator/Pilot, please respond accordingly.
+Finish the conversation surrounding what’s next with your group. Let me know what you all decide, but make sure it’s essentially unanimous. Don’t keep going for another month or season begrudgingly. 
 
-## Pray
+Please let us know what you decide to do via email:
 
-As we stated, many of our ROOTED Groups are stepping out in faith and seeking connecting for the first time…which is scary.
+```
+	After this Rooted Season ends, our group intends to…(check all that apply)
+	[  ] Stay Together for the Next Church Study/Series Materials
+	[  ] Stay Together using another study or resource 
+	[  ] Find Another Group/Situation (We can help them find another group)
+```
 
-Begin to pray for your members by name and for all God plans to accomplish over the next 10 weeks!
+We will be in touch with everyone to make a decision about that season individually.
 
->>HOW CAN I PRAY FOR YOU?
+## Preparing for the Celebration
 
-Seriously…I’m carving out time/space to pray for each of you (and your groups) individually and would love to know any specific needs or concerns you may have.
+Send a text or email to your group beforehand and prepare your group to think through one or two encouraging truths they want to share with each person in their group. 
 
-(NOTE: All requests are confidential and will remain so, but want you to know you’re valued and supported.)
+Maybe encourage them to think of a word, a phrase, quality, or a passion that comes to mind when they think about each individual in their group.
 
-As always, if you have any questions, concerns or simply want to know more about getting connected @ FCC, email nextsteps@firstchristian.com anytime.
+## Cardboard Testimonies
+
+At the Celebration, we will be highlighting some stories from this season of Rooted. 
+
+We’re asking every group to submit 1-2 group members that might be willing to share their story. Email nextsteps@firstchristian.com with their name or submit a story by clicking the button below. We will contact and coordinate with them about what this will look like.
+
+[SHARE YOUR STORY](https://form.jotform.com/82886016722158)
+

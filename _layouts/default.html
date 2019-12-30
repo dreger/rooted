@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Rooted {{ page.title }} | First Christian Church</title>
-	<link rel="stylesheet" type="text/css" href="{{ baseurl }}/style.css">
+	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css">
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,800&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -16,7 +16,7 @@
 		<div class="nav__grid">
 			<a class="nav__grid__item nav__grid__item--home {% if '/' == page.url %}nav__grid__item--active{% endif %}" href="/">Intro</a>
 			{% for week in site.weeks %}
-			<a class="nav__grid__item {% if week.url == page.url %}nav__grid__item--active{% endif %}" href="{{ week.url | baseurl }}">{{ week.title }}</a>
+			<a class="nav__grid__item {% if week.url == page.url %}nav__grid__item--active{% endif %}" href="{{ week.url }}">{{ week.title }}</a>
 			{% endfor %}
 		</div>
 	</nav>

@@ -1,3 +1,5 @@
+baseurl: /rooted
+
 collections:
   weeks:
     permalink: /:name/
